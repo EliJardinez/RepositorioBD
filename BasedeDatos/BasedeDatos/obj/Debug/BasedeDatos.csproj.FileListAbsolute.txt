@@ -1,0 +1,17 @@
+C:\Users\OMAR\Documents\Visual Studio 2017\BasedeDatos\BasedeDatos\bin\Debug\BasedeDatos.exe.config
+C:\Users\OMAR\Documents\Visual Studio 2017\BasedeDatos\BasedeDatos\bin\Debug\BasedeDatos.exe
+C:\Users\OMAR\Documents\Visual Studio 2017\BasedeDatos\BasedeDatos\bin\Debug\BasedeDatos.pdb
+C:\Users\OMAR\Documents\Visual Studio 2017\BasedeDatos\BasedeDatos\bin\Debug\MySql.Data.dll
+C:\Users\OMAR\Documents\Visual Studio 2017\BasedeDatos\BasedeDatos\bin\Debug\MySql.Data.xml
+C:\Users\OMAR\Documents\Visual Studio 2017\BasedeDatos\BasedeDatos\bin\Debug\Interop.WMPLib.dll
+C:\Users\OMAR\Documents\Visual Studio 2017\BasedeDatos\BasedeDatos\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\OMAR\Documents\Visual Studio 2017\BasedeDatos\BasedeDatos\obj\Debug\BasedeDatos.csprojResolveAssemblyReference.cache
+C:\Users\OMAR\Documents\Visual Studio 2017\BasedeDatos\BasedeDatos\obj\Debug\Interop.WMPLib.dll
+C:\Users\OMAR\Documents\Visual Studio 2017\BasedeDatos\BasedeDatos\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\OMAR\Documents\Visual Studio 2017\BasedeDatos\BasedeDatos\obj\Debug\BasedeDatos.csproj.ResolveComReference.cache
+C:\Users\OMAR\Documents\Visual Studio 2017\BasedeDatos\BasedeDatos\obj\Debug\BasedeDatos.Form1.resources
+C:\Users\OMAR\Documents\Visual Studio 2017\BasedeDatos\BasedeDatos\obj\Debug\BasedeDatos.Properties.Resources.resources
+C:\Users\OMAR\Documents\Visual Studio 2017\BasedeDatos\BasedeDatos\obj\Debug\BasedeDatos.csproj.GenerateResource.Cache
+C:\Users\OMAR\Documents\Visual Studio 2017\BasedeDatos\BasedeDatos\obj\Debug\BasedeDatos.csproj.CoreCompileInputs.cache
+C:\Users\OMAR\Documents\Visual Studio 2017\BasedeDatos\BasedeDatos\obj\Debug\BasedeDatos.exe
+C:\Users\OMAR\Documents\Visual Studio 2017\BasedeDatos\BasedeDatos\obj\Debug\BasedeDatos.pdb
